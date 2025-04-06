@@ -67,5 +67,5 @@ Edit
 ├── peer-monitoring/
 └── assets/
 🔗 Live Demo
-Hosted on Firebase: https://your-project-id.web.app
+Hosted on Firebase: https://your-project-id.web.app (incognito mode)
 
